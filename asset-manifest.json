@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.b7b7043f.chunk.css",
-    "main.js": "/static/js/main.eabd866e.chunk.js",
-    "main.js.map": "/static/js/main.eabd866e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4d467d91.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4d467d91.js.map",
-    "static/js/2.3d007714.chunk.js": "/static/js/2.3d007714.chunk.js",
-    "static/js/2.3d007714.chunk.js.map": "/static/js/2.3d007714.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ae854e6a7e033b92e0f7bcd13b0e8e49.js": "/precache-manifest.ae854e6a7e033b92e0f7bcd13b0e8e49.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b7b7043f.chunk.css.map": "/static/css/main.b7b7043f.chunk.css.map",
-    "static/js/2.3d007714.chunk.js.LICENSE.txt": "/static/js/2.3d007714.chunk.js.LICENSE.txt"
+    "main.css": "/Gloreau/travel-react/static/css/main.b7b7043f.chunk.css",
+    "main.js": "/Gloreau/travel-react/static/js/main.eabd866e.chunk.js",
+    "main.js.map": "/Gloreau/travel-react/static/js/main.eabd866e.chunk.js.map",
+    "runtime-main.js": "/Gloreau/travel-react/static/js/runtime-main.f8a5b89e.js",
+    "runtime-main.js.map": "/Gloreau/travel-react/static/js/runtime-main.f8a5b89e.js.map",
+    "static/js/2.3d007714.chunk.js": "/Gloreau/travel-react/static/js/2.3d007714.chunk.js",
+    "static/js/2.3d007714.chunk.js.map": "/Gloreau/travel-react/static/js/2.3d007714.chunk.js.map",
+    "index.html": "/Gloreau/travel-react/index.html",
+    "precache-manifest.aafb2c09dc7876684723864ee4355603.js": "/Gloreau/travel-react/precache-manifest.aafb2c09dc7876684723864ee4355603.js",
+    "service-worker.js": "/Gloreau/travel-react/service-worker.js",
+    "static/css/main.b7b7043f.chunk.css.map": "/Gloreau/travel-react/static/css/main.b7b7043f.chunk.css.map",
+    "static/js/2.3d007714.chunk.js.LICENSE.txt": "/Gloreau/travel-react/static/js/2.3d007714.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d467d91.js",
+    "static/js/runtime-main.f8a5b89e.js",
     "static/js/2.3d007714.chunk.js",
     "static/css/main.b7b7043f.chunk.css",
     "static/js/main.eabd866e.chunk.js"
