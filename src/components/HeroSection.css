@@ -7,7 +7,7 @@ video {
 }
 
 .hero-container {
-    /* background: url('/images/img-home.jpg') center center/cover no-repeat; */
+    background: url('https://images.squarespace-cdn.com/content/v1/585a1414e58c625687f7f018/1508287800830-Y2R94GHCA4NQXPEK7SGI/ke17ZwdGBToddI8pDm48kHOjZX7oRt8HN3HEIauo1PcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYwL8IeDg6_3B-BRuF4nNrNcQkVuAT7tdErd0wQFEGFSnKV9DDN9ugAl7mNG150X5FNgsFp6KhsFCOvcikuOErY6YBcxjroi2FVdOYzOCIDrTQ/pano+99+beach-2.jpg') center center/cover no-repeat;
     height: 100vh;
     width: 100%;
     display: flex;
