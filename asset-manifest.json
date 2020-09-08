@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/travel-react/static/css/main.b529e67a.chunk.css",
-    "main.js": "/travel-react/static/js/main.28760e14.chunk.js",
-    "main.js.map": "/travel-react/static/js/main.28760e14.chunk.js.map",
+    "main.css": "/travel-react/static/css/main.1b94f15b.chunk.css",
+    "main.js": "/travel-react/static/js/main.a02a9f84.chunk.js",
+    "main.js.map": "/travel-react/static/js/main.a02a9f84.chunk.js.map",
     "runtime-main.js": "/travel-react/static/js/runtime-main.93cabcf2.js",
     "runtime-main.js.map": "/travel-react/static/js/runtime-main.93cabcf2.js.map",
-    "static/js/2.4f63e412.chunk.js": "/travel-react/static/js/2.4f63e412.chunk.js",
-    "static/js/2.4f63e412.chunk.js.map": "/travel-react/static/js/2.4f63e412.chunk.js.map",
+    "static/js/2.f2d18d64.chunk.js": "/travel-react/static/js/2.f2d18d64.chunk.js",
+    "static/js/2.f2d18d64.chunk.js.map": "/travel-react/static/js/2.f2d18d64.chunk.js.map",
     "index.html": "/travel-react/index.html",
-    "precache-manifest.b2e81ad0b58335b6b263933086a110c0.js": "/travel-react/precache-manifest.b2e81ad0b58335b6b263933086a110c0.js",
+    "precache-manifest.ffbaa2d818da2163662d0ec0f43717cf.js": "/travel-react/precache-manifest.ffbaa2d818da2163662d0ec0f43717cf.js",
     "service-worker.js": "/travel-react/service-worker.js",
-    "static/css/main.b529e67a.chunk.css.map": "/travel-react/static/css/main.b529e67a.chunk.css.map",
-    "static/js/2.4f63e412.chunk.js.LICENSE.txt": "/travel-react/static/js/2.4f63e412.chunk.js.LICENSE.txt"
+    "static/css/main.1b94f15b.chunk.css.map": "/travel-react/static/css/main.1b94f15b.chunk.css.map",
+    "static/js/2.f2d18d64.chunk.js.LICENSE.txt": "/travel-react/static/js/2.f2d18d64.chunk.js.LICENSE.txt",
+    "static/media/img-1.jpg": "/travel-react/static/media/img-1.cd1d1c97.jpg",
+    "static/media/img-3.jpg": "/travel-react/static/media/img-3.65b53910.jpg",
+    "static/media/img-4.jpg": "/travel-react/static/media/img-4.0ec923fc.jpg",
+    "static/media/img-8.jpg": "/travel-react/static/media/img-8.d211c298.jpg",
+    "static/media/img-9.jpg": "/travel-react/static/media/img-9.523a89f6.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.93cabcf2.js",
-    "static/js/2.4f63e412.chunk.js",
-    "static/css/main.b529e67a.chunk.css",
-    "static/js/main.28760e14.chunk.js"
+    "static/js/2.f2d18d64.chunk.js",
+    "static/css/main.1b94f15b.chunk.css",
+    "static/js/main.a02a9f84.chunk.js"
   ]
 }
