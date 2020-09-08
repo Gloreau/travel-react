@@ -2,7 +2,7 @@
   "name": "react-website-travel",
   "version": "0.1.0",
   "private": true,
-  "home": "https://github.com/Gloreau/travel-react",
+  "homepage": "https://gloreau.github.io/travel-react/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
